@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(59, 59, 59);
+}
+#main {
+    background-color: rgb(58, 112, 228);
+    width: 800px;
+    border-radius: 30px;
+    margin: 0 auto;
+}
+
+#time {
+    font-size: 180px;
+    font-weight: bold;
+    margin-top: 150px;
+    text-align: center;
+}
+
+#date {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 50px;
+    text-align: center; 
+}
+
+#week {
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 50px;
+    text-align: center; 
+}
